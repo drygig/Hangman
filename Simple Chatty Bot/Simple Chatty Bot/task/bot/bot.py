@@ -45,6 +45,8 @@ def test():
         print('Completed, have a nice day!')
     else:
         print("Please, try again.")
+
+
 def end():
     print('Congratulations, have a nice day!')
 

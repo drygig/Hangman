@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+- name: Prime number 2
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5931#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 30 Mar 2021 15:50:41 UTC
+record: -1

@@ -1,0 +1,4 @@
+# put your python code here
+a = int(input())
+last_digit = a % 10
+print(last_digit)
