@@ -46,7 +46,6 @@ while True:
     else:
         continue
 
-
     if "".join(new_word) == word_random:
         print("You guessed the word!")
         print("You survived!")
@@ -54,24 +53,3 @@ while True:
     else:
         print("You lost!")
         break
-
-
-
-
-#for i in range(1, 9):
-#    print("Input a letter:")
-#    letter = input()
-#    if letter in word_random:
-#        for index in range(0, len(word_random)):
-#            if letter == word_random[index]:
-#                new_word[index] = letter
-#    else:
-#        print("That letter doesn't appear in the word")
-#        print()
-#    print("".join(new_word))
-
-#print("Thanks for playing!")
-#print("We'll see how well you did in the next stage")
-
-# word = input("What is the word? " + word_random[:3] + ("-" * (len(word_random) - 3)))
-
